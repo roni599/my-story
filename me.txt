@@ -1,1 +1,4 @@
-i am open this file in commandline
+i am open this file in commandline.
+for file create: touch [filename]
+for file edit: notepad[filename]
+for file read: cat [filename]
